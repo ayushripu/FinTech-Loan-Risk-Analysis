@@ -1,8 +1,9 @@
 # 📊 FinTech Loan Risk Analysis & Power BI Dashboard
 
-### Dashboard Overview
+## 📸 Dashboard Preview
 
-![FinTech Loan Risk Dashboard](Images/Screenshot 2026-08-20 224712.png)
+![FinTech Loan Risk Dashboard](Screenshot%202026-08-20%20224712.png)
+
 
 ## 📌 Project Overview
 
