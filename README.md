@@ -4,6 +4,9 @@
 
 ![FinTech Loan Risk Dashboard](Screenshot%202026-08-20%20224712.png)
 
+## 🔗 Live Power BI Dashboard
+
+[View Interactive Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/74da7cb1-1735-49bf-ac20-5a907e1474bf/4a6e22012dcbdc159e87?ctid=d988180a-487c-497e-b3d8-ee0146495fcb&experience=power-bi&bookmarkGuid=1912294a-d263-4a1b-b43a-d96f7e76d081)
 
 ## 📌 Project Overview
 
