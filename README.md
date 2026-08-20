@@ -1,5 +1,16 @@
 # 📊 FinTech Loan Risk Analysis & Power BI Dashboard
 
+## 📸 Dashboard Preview
+
+### Executive Overview
+
+![FinTech Loan Risk Dashboard](Images/dashboard.png)
+
+### Dashboard Overview
+
+![FinTech Loan Risk Dashboard - Overview](Images/dashboard-overview.png)
+
+
 ## 📌 Project Overview
 
 The **FinTech Loan Risk Analysis Dashboard** is an interactive Power BI project developed to analyze loan performance, collections, repayment behavior, credit risk, and customer loan patterns.
